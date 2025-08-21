@@ -1,4 +1,6 @@
 
+// 마우스방향으로 50% 확률로 움직이는 동적확률을 가진 랜덤워커
+
 let walker;
 
 function setup() {
