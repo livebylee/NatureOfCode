@@ -4,6 +4,5 @@
 -------
 Reference (Offical Website) : https://natureofcode.com
 
-My study Notes : https://velog.io/@livebylee/series/NatureOfCode
 
 
